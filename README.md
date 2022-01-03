@@ -1,6 +1,6 @@
 # income-tax-calculator
 
-Income Tax Calculator for Indian Tax System. Calculates for a salaried person. Updated with Old and New Tax Regimes.
+Income Tax Calculator for Indian Tax System. Calculates for a salaried person. Updated with Old and New Tax Regimes...
 
 ## Project setup
 
